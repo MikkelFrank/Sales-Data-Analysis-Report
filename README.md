@@ -31,8 +31,7 @@ The goal of this project is to:
 
 ```
 sales_data_project/
-├── data/
-│   └── train.csv
+├── train.csv
 ├── sales_data_project.ipynb
 ```
 
