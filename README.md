@@ -30,7 +30,7 @@ The goal of this project is to:
 ## Project Structure
 
 ```
-project/
+sales_data_project/
 ├── data/
 │   └── train.csv
 ├── notebook.ipynb
