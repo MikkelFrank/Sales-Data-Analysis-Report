@@ -33,8 +33,7 @@ The goal of this project is to:
 sales_data_project/
 ├── data/
 │   └── train.csv
-├── notebook.ipynb
-├── README.md
+├── sales_data_project.ipynb
 ```
 
 ---
